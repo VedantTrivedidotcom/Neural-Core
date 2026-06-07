@@ -1,0 +1,6 @@
+{
+  "name": "CyberNote",
+  "description": "A premium cyberpunk-styled Obsidian/Notion hybrid note-taking app with bidirectional links, interactive physics knowledge graph, canvas whiteboards, boards, tasks, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
